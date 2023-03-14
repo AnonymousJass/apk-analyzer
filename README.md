@@ -19,7 +19,7 @@
 ## Install
 
 ```
-git clone https://github.com/gwen001/apk-analyzer
+git clone https://github.com/AnonymousJass/apk-analyzer.git
 cd apk-analyzer
 pip3 install -r requirements.txt
 ```
@@ -56,7 +56,7 @@ options:
 ## Install
 
 ```
-git clone https://github.com/gwen001/apk-analyzer
+git clone https://github.com/AnonymousJass/apk-analyzer.git
 cd apk-analyzer
 pip3 install -r requirements.txt
 ```
